@@ -1,0 +1,151 @@
+.contact_img img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.div1 img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.div{
+    display: flex;
+   margin-left: 60px;
+}
+.div2 img{
+    margin-left: 40px;
+    height: 100vh;
+    width: 100%;
+}
+.div3{
+        position: absolute;
+        color:black;
+        left:560px;
+        top: 200px;
+        font-size:30px;
+}
+.div4{
+    background-color: bisque;
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.h3{
+    padding-top: 30px;
+    font-size: 30px;
+}
+.p1{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: black;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.list{
+    display: flex;
+}
+li{
+    display:inline-block;
+    /* margin:50px; */
+    margin-left: 130px;
+    font-size: 20px;
+}
+.menu{
+    display: flex;
+    height: 70px;
+}
+.menu h1{
+    margin-left: 60px;
+}
+.menu p{
+    margin-right: 150px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.hr-lines{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+
+}
+.hr-lines::after{
+    content: " ";
+    height: 2px;
+    width: 760px;
+    background: red;
+    display: block;
+    position: absolute;
+    left: 300px;
+    top: 15px;
+}
+.pa{
+    margin-top:70px;
+    margin-left: 70px;
+}
+.menu1{
+    display: flex;
+    height: 30px;
+    margin-top: 0px;
+}
+.menu1 h1{
+    margin-left: 60px;
+}
+.menu1 p{
+    margin-right: 150px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.hr-lines1{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+
+}
+.hr-lines1::after{
+    content: " ";
+    height: 2px;
+    width: 600px;
+    background: red;
+    display: block;
+    position: absolute;
+    left: 450px;
+    top: 15px;
+}
+.pa1{
+    margin-top:110px;
+    margin-left: 90px;
+}
+.hr-lines2{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+
+}
+.hr-lines2::after{
+    content: " ";
+    height: 2px;
+    width: 700px;
+    background: red;
+    display: block;
+    position: absolute;
+    left: 350px;
+    top: 15px;
+}
+.hr-lines3{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+
+}
+.hr-lines3::after{
+    content: " ";
+    height: 2px;
+    width: 550px;
+    background: red;
+    display: block;
+    position: absolute;
+    left: 490px;
+    top: 15px;
+}

@@ -1,0 +1,44 @@
+.about_img img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.d{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+}
+.i{
+    
+    height: 400px;
+    width: 700px;
+}
+.a{
+    height: 400px;
+    width: 700px;
+    background-color:aquamarine ;
+}
+.p1{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.carousel-inner img{
+    width: 90%;
+    height: 600px;
+    padding-left: 5px;
+    padding-top: 10px;
+    /* padding-right: 150px; */
+}
+#carouselExampleAutoplaying{
+    margin-left: 150px;
+}
+.carousel-control-prev-icon{
+    position: relative;
+    bottom: 100px;
+}
+.carousel-control-next-icon{
+    position: relative;
+    bottom: 100px;
+    right: 100px;
+}

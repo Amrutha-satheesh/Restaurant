@@ -1,0 +1,10 @@
+.contact_img img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.d{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+}
